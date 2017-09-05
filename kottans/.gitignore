@@ -24,7 +24,9 @@ nbproject
 *.sublime-workspace
 .idea
 
+
 # Folders to ignore
+.vscode
 .sass-cache
 .tmp
 _tmp
